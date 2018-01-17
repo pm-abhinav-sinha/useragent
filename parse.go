@@ -1,7 +1,6 @@
 // Written by https://xojoc.pw. GPLv3 or later.
-
 // Package useragent parses a user agent string.
-package useragent // import "xojoc.pw/useragent"
+package useragent 
 
 import (
 	"fmt"
